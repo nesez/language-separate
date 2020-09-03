@@ -12,7 +12,7 @@ separate language by js
 							var lang = lang.substr(0,2)
 							
 
-							if (lang == "ko")
+							if (lang == "country code")
 								window.location.replace('')
 
 							else
