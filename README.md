@@ -12,7 +12,7 @@ separate language by js
 							var lang = lang.substr(0,2)
 							
 
-							if (lang == "country code")
+							if (lang == "language code")
 								window.location.replace('')
 
 							else
