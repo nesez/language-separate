@@ -1,4 +1,4 @@
-              var type = navigator.appName
+          						var type = navigator.appName
 							var lang;
 							if (type=="Netscape")
 								lang = navigator.language
