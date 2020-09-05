@@ -1,7 +1,11 @@
 # language-separate
 separate language by js
+
+
+
+
 <script>
-              var type = navigator.appName
+            						var type = navigator.appName
 							var lang;
 							if (type=="Netscape")
 								lang = navigator.language
